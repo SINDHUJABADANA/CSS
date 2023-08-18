@@ -1,0 +1,17 @@
+input[type]{
+	color: blue;
+}
+input[type="text"]{
+	color: purple;
+}
+input[type="number"]{
+	color: mediumpurple;
+}
+a[href]
+{
+	background-color: orchid;
+}
+body
+{
+	background-image: url("../html/images/fruits/watermelon.jpeg");
+}

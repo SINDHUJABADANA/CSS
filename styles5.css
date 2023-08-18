@@ -1,0 +1,20 @@
+a:link
+{
+	color: deepskyblue;
+}
+a:hover/*by placing cursor on it the color will change*/
+{
+	color: green;
+}
+a:visited /*for already visited linkc the color will change*/
+{
+	color: hotpink;
+}
+a:active /*while clicking that color will change*/
+{
+	color: brown;
+}
+div:hover
+{
+	background-color: peru;
+}
